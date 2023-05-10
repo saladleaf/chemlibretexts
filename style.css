@@ -1840,9 +1840,7 @@ div.iCn3D div {
 .mt-responsive-table th {
   border-bottom: 1px solid #E8E8E8 !important;
 }
-    
-}
-    
+
 .elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
     display: flex;
     justify-content: space-between;
@@ -1892,4 +1890,42 @@ img.center {
   display: block;
 }
 
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
 }
