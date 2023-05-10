@@ -1,0 +1,21 @@
+#mt-toc-container {
+    display: none !important;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.mt-video-widget:not(.cke_widget_element) {
+    margin: 0 auto !important;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}
+  
